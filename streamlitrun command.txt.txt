@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Sakshi\Desktop\multiple disease\multi.py"
