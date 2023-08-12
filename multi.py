@@ -19,7 +19,7 @@ diabetes_model = pickle.load(open('C:/Users/Sakshi/Desktop/multiple disease/save
 
 heart_disease_model = pickle.load(open('C:/Users/Sakshi/Desktop/multiple disease/saved model/heart_disease_model.sav','rb'))
 
-parkinsons_model = pickle.load(open('C:/Users/Sakshi/Desktop/multiple disease/saved model/parkinsons_model', 'rb'))
+parkinsons_model = pickle.load(open('C:/Users/Sakshi/Desktop/multiple disease\saved model/parkinsons_model.sav', 'rb'))
 
 
 
